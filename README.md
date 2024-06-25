@@ -12,7 +12,7 @@ This project focuses on predicting Body Mass Index (BMI) using the Random Forest
 
 `500_Person_Gender_Height_Weight_Index.csv`:** This CSV file contains the dataset used for training and testing the model. It includes information such as gender, height, weight, and BMI index of 500 individuals.
 
-- **`MLP.ipynb`:** This Jupyter Notebook serves as the main script for the project. It contains the Python code for data preprocessing, model training, evaluation, and visualization.
+- **`bmi_classifier.ipynb`:** This Jupyter Notebook serves as the main script for the project. It contains the Python code for data preprocessing, model training, evaluation, and visualization.
 
 - **`README.md`:** This markdown file provides an overview of the project, its purpose, and instructions for running the code.
 
@@ -40,4 +40,4 @@ This project focuses on predicting Body Mass Index (BMI) using the Random Forest
 
 ### Running the Project
 
-To run the project locally, ensure you have Python installed along with the required libraries . You can execute the `MLP.ipynb` notebook in Jupyter or any compatible environment to explore the code and interact with the GUI.
+To run the project locally, ensure you have Python installed along with the required libraries . You can execute the `bmi_classifier.ipynb` notebook in Jupyter or any compatible environment to explore the code and interact with the GUI.
