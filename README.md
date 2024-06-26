@@ -1,6 +1,6 @@
 # BMI_prediction_using_ML
 Our team of five innovators created a groundbreaking project: predicting Body Mass Index (BMI) using the Random Forest algorithm, a key tool in machine learning. This collaboration produced a sophisticated system for accurate BMI assessment, showcasing our commitment to healthcare innovation.
-For your GitHub README file, you can provide a detailed description of the project, including the files used and the libraries employed. Here's a clean English description:
+
 
 ---
 
