@@ -10,7 +10,7 @@ This project focuses on predicting Body Mass Index (BMI) using the Random Forest
 
 # Files Used
 
-`500_Person_Gender_Height_Weight_Index.csv`:** This CSV file contains the dataset used for training and testing the model. It includes information such as gender, height, weight, and BMI index of 500 individuals.
+`500_Person_Gender_Height_Weight_Index.csv`: This CSV file contains the dataset used for training and testing the model. It includes information such as gender, height, weight, and BMI index of 500 individuals.
 
 - **`bmi_classifier.ipynb`:** This Jupyter Notebook serves as the main script for the project. It contains the Python code for data preprocessing, model training, evaluation, and visualization.
 
